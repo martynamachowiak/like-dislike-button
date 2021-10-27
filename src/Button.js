@@ -87,7 +87,7 @@ export default class LikeDislike extends Component {
                     }
 
                     .like-button span, .dislike-button span {
-                      pointer
+                      pointer-events: none;
                     }
                 `}</style>
       </>
