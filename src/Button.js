@@ -13,7 +13,7 @@ export default class LikeDislike extends Component {
   /**
    * Handle like and dislike click
    *
-   * TODO The next step would be optimising this menthod, to remove repeated code,
+   * TODO The next step would be optimising this method, to remove repeated code,
    * decrease if/else blocks, and maybe to get the type of the button from `event.target`
    * rather than passed as argument.
    */
